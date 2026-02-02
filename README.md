@@ -36,3 +36,6 @@ A set in Python is an unordered collection of unique elements. Sets are used to 
 -Step 8: Display the results of all set operations.
 -Step 9: Stop the program.
 
+Conclusion (Theory & Algorithm)
+
+Sets in Python provide an efficient way to store and manipulate unique elements. Through set operations such as union, intersection, difference, and symmetric difference, relationships between data collections can be easily analyzed. The algorithm clearly demonstrates how these operations are performed using simple operators, making set manipulation concise, readable, and effective for problem-solving in programming.
